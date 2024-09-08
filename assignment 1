@@ -1,0 +1,63 @@
+
+// Question 1
+
+// alert("First Name")
+// alert("Last Name")
+// alert("Email")
+// alert("Phone number")
+// alert("Password")
+
+// Question 2
+
+// alert("You are Learning Javascript");
+
+// Question 3
+
+// alert("Shutup")
+
+                                                     // Chapter 2
+// Question 1
+
+// var hello;
+
+// Question 5
+
+// var watch
+// watch="Rolex"
+
+// Question 6
+
+// var Teamname="Pakistan"
+// alert(Teamname)
+
+// Question 7
+
+// var BestMan="Charlie";
+// BestMan="Alex"
+
+                                                         // Chapter 3
+// Question 1
+
+// var Caseqty;
+
+// // // Question 2
+
+//  Caseqty=144
+
+// // // Question 3
+
+//  var num=9
+
+// // // Question 4
+
+// var sum= Caseqty+num
+// console.log(sum)
+
+// Question 5
+
+// var merchtotal=100;
+// var shippingtotal=10;
+// var ordertotal= merchtotal+shippingtotal
+// console.log(ordertotal)
+
+// Question 6
