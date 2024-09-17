@@ -1,1 +1,37 @@
 
+ // Question 1
+
+// var city = prompt("enter your city")
+
+  // if(city == "karachi"){
+// alert("Welcome to thr city of lights")
+
+  // }
+
+ // Question 2
+ 
+ //var gender= prompt("enter your gender")
+
+ //if(gender == "Male"){
+    // alert("Good Morning Sir!")
+ //}
+ //if(gender== "Female"){
+   // alert("Good Morning Mam!")
+ //}
+
+// Question 3
+
+
+// var light= prompt("Enter signal light to get the following message")
+
+// if(light == "Red"){
+//     alert("Must Stop")
+// }
+// if(light== "Yellow"){
+//    alert("Ready to move")
+// }
+
+// if(light == "Green"){
+//     alert("Move Now")
+// }
+
