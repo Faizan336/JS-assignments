@@ -1,0 +1,21 @@
+
+function calc (firstval ,secondval,operator){
+    if(operator === "+"){
+        return firstval + secondval;
+    }
+    else if(operator=== "-"){
+        return firstval - secondval;
+    }
+    else if (operator=== "*"){
+        return firstval * secondval;
+    }
+    else{
+        return "invalid operator";
+    }
+}
+
+  console.log(
+    calc (+prompt("Enter any number"),+prompt("Enter any number"),prompt("Enter any operator"))
+
+  )
+
